@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontDeskApp", "FrontDeskApp\FrontDeskApp.csproj", "{4A35D5D1-6051-4388-84D2-18584A9316CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontDeskAppAPI", "FrontDeskAppAPI\FrontDeskAppAPI.csproj", "{594726E7-FF7E-4C0F-A275-66FFDF4330E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A35D5D1-6051-4388-84D2-18584A9316CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A35D5D1-6051-4388-84D2-18584A9316CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A35D5D1-6051-4388-84D2-18584A9316CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A35D5D1-6051-4388-84D2-18584A9316CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594726E7-FF7E-4C0F-A275-66FFDF4330E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594726E7-FF7E-4C0F-A275-66FFDF4330E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594726E7-FF7E-4C0F-A275-66FFDF4330E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594726E7-FF7E-4C0F-A275-66FFDF4330E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D75447-9C4D-4108-8A8E-B1E3558127EA}
+	EndGlobalSection
+EndGlobal
